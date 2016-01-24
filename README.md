@@ -23,7 +23,7 @@ __Dostępne miasta__:
     KPN, Granica, Mazowieckie, Polska
     Ursynów, Warszawa, Mazowieckie, Polska
 
-Ustaw miasto w pliku, zmianna 'city'
+Ustaw miasto w pliku, zmienna 'city'
 
 
 ## Użycie:
