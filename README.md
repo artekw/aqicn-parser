@@ -28,7 +28,8 @@ Ustaw miasto w pliku, zmienna 'city'
 
 ## Użycie:
 
-      $ python aqi.py
+    $ pip install request bs4
+    $ python aqi.py
       Wyjście:
 
       Miasto: Suwałki-Miejska, Polska
