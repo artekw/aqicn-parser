@@ -1,5 +1,5 @@
 ### aqicn-parser
-Strona [aqicn.org](http://aqicn.org) udostępnia dane o jakości powietrza. Obecnie API tej strony nie pozwala na dostęp do danych w formacie JSON. Do swojego projektu potrzebowałem danych dla Suwałk. Przy okazji dostępne są dla innch miast w pobliżu. Możliwe, że po delikatiej modyfiakacji można dosstosować dla innnych miast Polski/Świata
+Strona [aqicn.org](http://aqicn.org) udostępnia dane o jakości powietrza. Obecnie API tej strony nie pozwala na dostęp do danych w formacie JSON. Do swojego projektu potrzebowałem danych dla Suwałk. Przy okazji dostępne są dla innch miast w pobliżu. Możliwe, że po delikatiej modyfiakacji można dostosować dla innnych miast Polski/Świata
 
 
 __Dostępne miasta__:
